@@ -12,6 +12,7 @@ Antalet kast räknas och det gäller att få så få kast som möjligt.
 
 
 # Lösningsförslag
+Vi bygger en lösning under lektionen.
 ```
 START
 
