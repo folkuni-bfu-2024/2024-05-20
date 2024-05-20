@@ -233,27 +233,7 @@ for( i = 0; i <= 3; i++ ) {
 console.log(s);
 ```
 
-41 Vad skrivs ut av koden?
-```js
-for( let i=1; i<=6; i++ ) {
-	let str = ''
-	for( let j=1; j<=8; j++ ) {
-		if( i === 3 ) {
-			str += '#'
-		} else {
-			str += '.'
-		}
-	}
-	s += "\n"
-	if(t === "x")
-		t = "o"
-	else
-		t = "x"
-}
-console.log(s);
-```
-
-42 Modifiera koden ovan, så att den producerar följande figurer.
+41 Modifiera koden ovan, så att den producerar följande figurer.
 
 ![loopa](loop1.png)
 
