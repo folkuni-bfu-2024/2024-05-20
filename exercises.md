@@ -225,10 +225,6 @@ for( i = 0; i <= 3; i++ ) {
 		s += t
 	}
 	s += "\n"
-	if(t === "x")
-		t = "o"
-	else
-		t = "x"
 }
 console.log(s);
 ```
