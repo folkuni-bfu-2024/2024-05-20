@@ -12,8 +12,8 @@ Veckoprojekt
 + [inlämning](https://docs.google.com/forms/d/e/1FAIpQLSezrlfsYZSWjpPpX5PytUpp0gTjf9uS7rM3d-f1qZXtZnLLEQ/viewform?usp=sf_link)
 
 Inspelning
-+ [Länk till inspelning av lektionen]() - länk kommer efter lektionen
-
++ [Länk till inspelning av lektionen](https://folkuniversitetet-se.zoom.us/rec/share/i-Qy0eKQJX6zENjfKQXjnJf1invA2_RvdE2DQgjIxVo8NT4s23hQqOYZT1OgOinG.Fb_key1FZC5mx984)
++ Lösenkod: `Ro0fQ??^`
 
 ## Resurser
 
