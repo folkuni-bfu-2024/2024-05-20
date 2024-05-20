@@ -102,10 +102,10 @@ console.log('Värdet av z är: ', z)
 let a = 12
 let b = 9
 if(a <= b) {
-	console.log(a)
+    console.log(a)
 }
 else {
-	console.log(b)
+    console.log(b)
 }
 ```
 
@@ -114,11 +114,11 @@ else {
 let a = 20
 let b = -5
 if( a - b < 12 )
-	console.log('liten')
+    console.log('liten')
 if( a - b < 16 )
-	console.log('mellan')
+    console.log('mellan')
 else
-	console.log('stor')
+    console.log('stor')
 ```
 
 22 Vad skrivs ut av koden?
@@ -126,11 +126,11 @@ else
 let a = 21;
 let b = 22;
 if(a < b)
-	a++
+    a++
 else if(a > b)
-	b++
+    b++
 else
-	a+=2
+    a+=2
 console.log(a, b)
 ```
 
@@ -153,7 +153,7 @@ console.log(x, y);
 30 Vad skrivs ut av koden?
 ```js
 for( let i=5; i<10; i++ ) {
-	console.log('i: ', i)
+    console.log('i: ', i)
 }
 ```
 
@@ -162,14 +162,14 @@ for( let i=5; i<10; i++ ) {
 32 Vad skrivs ut av koden?
 ```js
 for( let i=64; i>1; i = i / 2 ) {
-	console.log('Värdet av i är: ', i)
+    console.log('Värdet av i är: ', i)
 }
 ```
 
 33 Vad skrivs ut av koden?
 ```js
 for( let i=15; i>11; i-- ) {
-	console.log('Värdet av i är: ', i)
+    console.log('Värdet av i är: ', i)
 }
 ```
 
@@ -179,7 +179,7 @@ for( let i=15; i>11; i-- ) {
 ```js
 let x = 0
 for( let i=1; i<=5; i++ ) {
-	x += i
+    x += i
 }
 console.log('Värdet av x är: ', x)
 ```
@@ -188,10 +188,10 @@ console.log('Värdet av x är: ', x)
 ```js
 const x = 61
 for( let i=1; i<=10; i++ ) {
-	let j = (i - 1) * i
-	if( j > x ) {
-		console.log('Värdet är: ', j)
-	}
+    let j = (i - 1) * i
+    if( j > x ) {
+        console.log('Värdet är: ', j)
+    }
 }
 ```
 
@@ -200,17 +200,17 @@ for( let i=1; i<=10; i++ ) {
 38 Tecknet `%` kallas "modulo" och används bland annat för att avgöra om ett tal är udda eller jämnt. Använd detta för att skriva ut alla udda tal mellan 20 och 40. Exempel:
 ```js
 if( x % 2 === 0 ) {
-	// talet är jämnt
+    // talet är jämnt
 }
 if( x % 2 === 1 ) {
-	// talet är udda
+    // talet är udda
 }
 ```
 
 39 Vad skrivs ut av koden?
 ```js
 for( let i=0; i<=30; i+=3 ) {
-	console.log('Värdet är: ', i++)
+    console.log('Värdet är: ', i++)
 }
 ```
 
@@ -221,10 +221,10 @@ let t = 'x'
 let i = 0
 let j = 0
 for( i = 0; i <= 3; i++ ) {
-	for( j = 0; j <= 3; j++ ) {
-		s += t
-	}
-	s += "\n"
+    for( j = 0; j <= 3; j++ ) {
+        s += t
+    }
+    s += "\n"
 }
 console.log(s);
 ```
