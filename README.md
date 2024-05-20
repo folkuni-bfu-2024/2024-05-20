@@ -8,8 +8,8 @@ Lektion vecka 4, JavaScript
 
 
 Veckoprojekt
-+ [projektet]() - länk kommer efter lektionen
-+ [inlämning]() - länk kommer efter lektionen
++ [projektet](projekt.md)
++ [inlämning](https://docs.google.com/forms/d/e/1FAIpQLSezrlfsYZSWjpPpX5PytUpp0gTjf9uS7rM3d-f1qZXtZnLLEQ/viewform?usp=sf_link)
 
 Inspelning
 + [Länk till inspelning av lektionen]() - länk kommer efter lektionen
@@ -20,10 +20,6 @@ Inspelning
 [Skriv JavaScript online](https://replit.com/) | replit.com
 
 [Koda med Blockly](https://lejonmanen.github.io/learn-code-blockly/) - bygg kod genom att dra block i stället för att skriva.
-
-<!-- datatyper
-funktioner
-loopar -->
 
 [JavaScript tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax) | Programming with Mosh, YouTube
 
